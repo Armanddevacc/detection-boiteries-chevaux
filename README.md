@@ -1,7 +1,10 @@
 # Détection des Boiteries d'un Cheval à l'Aide d'un Smartphone   
   
 [Slides de présentation du projet](https://docs.google.com/presentation/d/1riKBWztPVTVte_7OKv6zCgAu2zm5mgz_pZyPyEyptqE/edit?usp=sharing)
-## Création d'une méthode pour la détection des boiteries chez les chevaux à l'aide d'un smartphone :
+
+Ce projet présente une méthode innovante pour détecter les boiteries chez les chevaux en utilisant uniquement un smartphone, en se basant sur des techniques d'accélérométrie. L'objectif est de rendre cette technologie accessible à tous les cavaliers, en leur permettant de surveiller la santé de leurs chevaux sans avoir recours à des dispositifs coûteux.
+
+## Méthodologie
 
 - Utilisation d'une méthode basée sur l'accélérométrie.
 
