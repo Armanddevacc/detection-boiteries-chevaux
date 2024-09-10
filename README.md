@@ -1,4 +1,5 @@
-# DÉTECTION DES BOITERIES D’UN CHEVAL À L’AIDE D’UN SMARTPHONE    
+# Détection des Boiteries d'un Cheval à l'Aide d'un Smartphone   
+  
 [Slides de présentation du projet](https://docs.google.com/presentation/d/1riKBWztPVTVte_7OKv6zCgAu2zm5mgz_pZyPyEyptqE/edit?usp=sharing)
 ## Création d'une méthode pour la détection des boiteries chez les chevaux à l'aide d'un smartphone :
 
