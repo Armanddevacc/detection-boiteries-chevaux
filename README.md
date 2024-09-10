@@ -4,7 +4,7 @@
 
 - Utilisation d'une méthode basée sur l'accélérométrie.
 
-- Développement du code en Python.
+- Développement du code en Python (`Numpy`, `Pandas`, `Matplotlib`, `scipy`).
 
 - Application de principes physiques tels que la transformation de Fourier et le traitement du signal.
 
