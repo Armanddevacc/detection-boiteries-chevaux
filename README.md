@@ -1,6 +1,7 @@
 # Détection des Boiteries d'un Cheval à l'Aide d'un Smartphone   
 
-[Notebook du projet](https://armanddevacc.github.io/detection-boiteries-chevaux/)
+[Notebook du projet](https://armanddevacc.github.io/detection-boiteries-chevaux/)   
+
 [Slides de présentation du projet](https://docs.google.com/presentation/d/1riKBWztPVTVte_7OKv6zCgAu2zm5mgz_pZyPyEyptqE/edit?usp=sharing)
 
 Ce projet présente une méthode innovante pour détecter les boiteries chez les chevaux en utilisant uniquement un smartphone, en se basant sur des techniques d'accélérométrie. L'objectif est de rendre cette technologie accessible à tous les cavaliers, en leur permettant de surveiller la santé de leurs chevaux sans avoir recours à des dispositifs coûteux.
