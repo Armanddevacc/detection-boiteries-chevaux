@@ -31,6 +31,6 @@ Ce projet présente une méthode innovante pour détecter les boiteries chez les
 - Symétrie
 - Nombre de sauts
 - Analyse des enchaînements d'obstacle
-
+- scanne du carnet du cheval
 
 
